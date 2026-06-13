@@ -348,9 +348,7 @@ Included:
 
 Video Demonstration Link:
 
-```text
-Add Loom or YouTube link here
-```
+https://www.loom.com/share/409672260e064a499195135352b3f6e9
 
 ---
 
